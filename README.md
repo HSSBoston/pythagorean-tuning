@@ -1,7 +1,6 @@
 # pythagorian-tuning
 
-https://scratch.mit.edu/projects/243436547
-
-<iframe src="https://scratch.mit.edu/projects/243436547/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+I implemented the Pythagorian tuning method with Scratch for the first time. See the [Scratch.org project page](https://scratch.mit.edu/projects/243436547
+).
 
 
