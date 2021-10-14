@@ -4,7 +4,7 @@ Since I play the piano, I wondered for a long time why each octave has 12 tones,
 
 
 <p align="center">
-  <img src="images/code3-scratch.jpg" width="500" />
+  <img src="images/code3-scratch.jpg" width="800" />
 </p>
 
-
+I wrote this code in August 2018 to work on a summer research project about the Pythagorean tuning method. See a research report and a [poster presentation](images/poster.jpg), both written in Japanese, if you can read Japanese. :smile: 
