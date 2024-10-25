@@ -9,4 +9,4 @@ So, when I was a 3rd grader, I learned about the [Pythagorean tuning method](htt
   <img src="images/code3-scratch.jpg" width="800" />
 </p>
 
-I wrote this Scrartch code in August 2018 to work on a summer research project about the Pythagorean tuning method. See a research report and a [poster presentation](images/poster.jpg), both written in Japanese, if you can read Japanese. :smile:
+I wrote this Scrartch code in August 2018 to work on a summer research project about the Pythagorean tuning method. See a [research report](images/report.pdf) and a [poster presentation](images/poster.jpg), both written in Japanese, if you can read Japanese. :smile:
